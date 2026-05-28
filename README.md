@@ -47,7 +47,10 @@ Computer Science graduate student at the **University of Oklahoma** specializing
 ### Credit Card Fraud Detection using Hidden Naive Bayes and Bayesian Belief Network
 **IEEE 9th International Conference for Convergence in Technology (I2CT)**
 
-Developed probabilistic ML systems using Hidden Naive Bayes (HNB) and Bayesian Belief Networks (BBN) for intelligent financial fraud detection.
+Developed probabilistic machine learning systems using Hidden Naive Bayes (HNB) and Bayesian Belief Networks (BBN) for intelligent financial fraud detection and anomaly detection in highly imbalanced financial datasets.
+
+### Technical Explanation
+The system integrates probabilistic inference, Bayesian dependency modeling, transaction feature engineering, fraud likelihood scoring, and causal relationship analysis to identify suspicious financial transactions while minimizing false positives. The workflow includes preprocessing pipelines, imbalance handling, feature extraction, probabilistic learning, and comparative model evaluation for high-risk fraud monitoring systems.
 
 <div align="center">
 
@@ -58,42 +61,95 @@ Developed probabilistic ML systems using Hidden Naive Bayes (HNB) and Bayesian B
 
 </div>
 
+**Publication:**  
+https://ieeexplore.ieee.org/document/10544328
+
 ---
 
 ### Enhancing Smart Farming Techniques through IoT and Machine Learning
 **International Conference on Smart Systems and Green Energy Technologies**
 
-Designed an IoT-enabled intelligent agriculture platform integrating predictive analytics, sensor-based monitoring, and ML-driven crop management systems.
+Designed an IoT-enabled intelligent agriculture platform integrating predictive analytics, sensor-based monitoring, disease detection systems, and ML-driven crop management workflows.
+
+### Technical Explanation
+The platform combines IoT sensor pipelines, climate-aware prediction models, CNN-based disease classification systems, weather analytics, and machine learning recommendation engines to support precision agriculture and smart farming workflows. The system processes real-time environmental data and image-based crop inputs to generate intelligent farming recommendations for yield optimization and crop health management.
+
+**Publication:**  
+https://www.riverpublishers.com/pdf/ebook/chapter/RP_9788770229647C14.pdf
 
 ---
 
-## Projects
+# Projects
 
-### SoonerBoomer+ — Blockchain ERC-20 Claim Infrastructure
+## StockBase — Enterprise Inventory Management Platform
+`React` `Spring Boot` `PostgreSQL` `Docker` `JWT` `REST APIs`
+
+Production-grade full stack inventory management platform designed for enterprise inventory operations, supplier management, analytics monitoring, stock movement auditing, and reporting systems.
+
+### Technical Explanation
+Built using React, Spring Boot, PostgreSQL, Docker, Render, Netlify, and Neon PostgreSQL, the platform implements JWT authentication, role-based access control, RESTful APIs, relational database workflows, analytics dashboards, CSV export pipelines, transaction auditing systems, backend validation, and distributed frontend-backend deployment architecture for scalable inventory management operations.
+
+**Live Demo:**  
+https://fanciful-narwhal-46443d.netlify.app/
+
+**Backend API:**  
+https://stockbase-rpe7.onrender.com
+
+---
+
+## SoonerBoomer-ERC20-dApp
 `Solidity` `Ethereum` `OpenZeppelin` `Hardhat` `Ethers.js`
 
-Decentralized token distribution infrastructure utilizing Merkle-tree verification, gas-efficient on-chain allowlists, smart contract security hardening, MetaMask integration, and trustless token claiming.
+Decentralized ERC-20 token distribution infrastructure enabling secure blockchain-based reward claiming through trustless smart contract execution.
+
+### Technical Explanation
+Built using Solidity, Ethereum, OpenZeppelin, Hardhat, and Ethers.js, the platform implements gas-efficient Merkle-tree verification, cryptographic allowlist validation, MetaMask wallet integration, ERC-20 smart contract security hardening, and decentralized reward claiming workflows optimized for scalable Web3 token distribution systems.
+
+**Demo:**  
+https://youtu.be/QgrpUbpq9ck
 
 ---
 
-### AI-Powered PostgreSQL Index Optimization
+## AI-Powered PostgreSQL Index Optimization
 `PostgreSQL` `TPC-H` `LLMs` `Benchmarking` `AI Optimization`
 
-Intelligent index recommendation framework using workload-driven analysis, query optimization pipelines, latency benchmarking, and AI-assisted BALANCE-inspired recommendation systems.
+Intelligent database optimization framework that recommends indexes for PostgreSQL workloads to improve query performance and reduce execution latency.
+
+### Technical Explanation
+The framework uses workload-driven analysis, query feature extraction, optimizer feedback, execution benchmarking, and AI-assisted BALANCE-inspired recommendation systems to identify high-impact indexing strategies while balancing storage overhead and write-performance tradeoffs.
 
 ---
 
-### StressLab — Edge AI Physiological Monitoring
+## StressLab — Edge AI Physiological Monitoring
 `HealthKit` `HRV Analysis` `Edge ML` `MQTT` `iOS`
 
-On-device physiological stress estimation using Apple Watch ECG, HRV feature extraction, logistic regression calibration, privacy-preserving edge inference, and IoT telemetry streaming.
+On-device physiological stress estimation platform using wearable ECG analytics and privacy-preserving edge inference workflows.
+
+### Technical Explanation
+Built using Swift, HealthKit, Edge ML concepts, and MQTT streaming, the system processes Apple Watch ECG-derived RR intervals, computes HRV metrics such as RMSSD, SDNN, pNN50, and SD1/SD2, and performs personalized logistic regression-based stress estimation without transmitting raw biometric data externally.
+
+**Demo:**  
+https://youtu.be/pwPaB8Ufl2U
 
 ---
 
-### Brain Tumor Detection — MRI & Hyperspectral Imaging
+## Brain Tumor Detection — MRI & Hyperspectral Imaging
 `TensorFlow` `OpenCV` `CNN` `Medical Imaging`
 
-CNN-based diagnostic systems for tumor detection, image segmentation, hyperspectral tissue analysis, medical image preprocessing, and spatial localization.
+Deep learning-based medical imaging system for automated brain tumor detection, segmentation, and hyperspectral tissue analysis.
+
+### Technical Explanation
+The system uses CNN-based image classification and segmentation workflows with preprocessing stages such as normalization, denoising, augmentation, and region-of-interest extraction. The hyperspectral imaging pipeline performs wavelength-based tissue analysis for differentiation between healthy and abnormal tissue patterns.
+
+---
+
+## ECG Cardiovascular Disease Detection
+`CNN` `Healthcare AI` `TensorFlow` `Signal Processing`
+
+Deep learning system for automated cardiovascular disease screening using ECG signal analysis and medical AI workflows.
+
+### Technical Explanation
+The system applies CNN-based feature extraction to ECG waveform representations, learning both local waveform characteristics and broader rhythm-level cardiac abnormalities through preprocessing, convolutional model training, classification, and healthcare-oriented diagnostic analysis workflows.
 
 ---
 
