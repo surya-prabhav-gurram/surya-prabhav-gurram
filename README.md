@@ -159,12 +159,15 @@ The system applies CNN-based feature extraction to ECG waveform representations,
 
 | Domain | Technologies |
 |:---:|:---|
-| **Languages** | Python · Java · SQL · JavaScript · Solidity |
-| **AI / ML** | TensorFlow · Keras · Scikit-learn · OpenCV |
-| **Blockchain** | Ethereum · Hardhat · Ethers.js · OpenZeppelin |
-| **Databases** | PostgreSQL · MongoDB · Oracle · MySQL |
-| **Frameworks** | Flask · Django · React · Node.js |
-| **Infrastructure** | Docker · AWS · Git · Linux |
+| **Languages** | Python · Java · SQL · JavaScript · TypeScript · Solidity · HTML · CSS |
+| **Frontend Development** | React · Tailwind CSS · Recharts · Responsive UI Design · REST API Integration |
+| **Backend Development** | Spring Boot · Node.js · Flask · Django · RESTful APIs · JWT Authentication |
+| **AI / ML** | TensorFlow · Keras · Scikit-learn · OpenCV · CNNs · Deep Learning · Predictive Analytics |
+| **Blockchain / Web3** | Ethereum · Solidity · Hardhat · Ethers.js · OpenZeppelin · MetaMask · ERC-20 |
+| **Databases** | PostgreSQL · Neon PostgreSQL · MongoDB · Oracle · MySQL · SQL Optimization |
+| **Cloud & Deployment** | Docker · AWS · Render · Netlify · CI/CD · Linux · Environment Configuration |
+| **Tools & Platforms** | Git · GitHub · Maven · Postman · VS Code · Jupyter Notebook |
+| **Mobile & IoT** | Swift · HealthKit · MQTT · Edge ML · HRV Analytics · iOS Development |
 
 </div>
 
