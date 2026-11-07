@@ -306,9 +306,11 @@ https://www.riverpublishers.com/pdf/ebook/chapter/RP_9788770229647C14.pdf
 
 ## Experience
 
-**Student Supervisor — University of Oklahoma** `Aug 2024 — Present`
+**Software Engineering — University of Oklahoma** `Nov 2024 — May 2026`
 
-**Software Engineering Intern — Made For Few** `Aug 2023 — Nov 2023`
+**Software Engineering Intern — MARS Telecom Systems** `Jul 2023 — Jun 2024`
+
+**Software Engineering Intern — Venturo Technologies** `Jan 2023 — Jun 2023`
 
 ---
 
